@@ -9,6 +9,9 @@ function init() {
 
   const jsConfetti = new JSConfetti()
 
+  const sound = document.querySelector('audio'); 
+  sound.volume = 0.5; 
+
   // setting image and audio file
 
   const select = document.getElementById('horn-select');
