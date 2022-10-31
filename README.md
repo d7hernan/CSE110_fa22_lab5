@@ -1,6 +1,6 @@
 # Lab 5 - Starter
 Daniel Hernandez
 
-Horn Website: https://github.com/d7hernan/CSE110_fa22_lab5/expose.html
+Horn Website: https://d7hernan.github.io/CSE110_fa22_lab5/expose.html
 
-SpeechSynthesis Website: https://github.com/d7hernan/CSE110_fa22_lab5/explore.html
+SpeechSynthesis Website: https://d7hernan.github.io/CSE110_fa22_lab5/explore.html
